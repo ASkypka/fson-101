@@ -69,6 +69,9 @@ h1 {
   line-height: normal;
   cursor: pointer;
   border: none;
+  transition-property: color;
+  transition-duration: 0.5s;
+  transition-timing-function: cubic-bezier(0.75, 0.82, 0.165, 1);
 }
 .hero-button-buy:hover {
   color: #fd9222;
@@ -88,8 +91,10 @@ h1 {
   font-weight: 600;
   line-height: normal;
   cursor: pointer;
-  background-color: rgba(17, 17, 17, 0.7);
   background-color: transparent;
+  transition-property: color;
+  transition-duration: 0.5s;
+  transition-timing-function: cubic-bezier(0.75, 0.82, 0.165, 1);
 }
 
 .hero-button-how:hover {
@@ -103,9 +108,13 @@ h1 {
   padding: 5px 10px;
   justify-content: center;
   box-sizing: border-box;
+  cursor: pointer;
+  transition-property: background;
+  transition-duration: 0.5s;
+  transition-timing-function: cubic-bezier(0.75, 0.82, 0.165, 1);
+  border-radius: 10px;
 }
 .container-scroll:hover {
-  border-radius: 10px;
   background: #1e1823;
 }
 
