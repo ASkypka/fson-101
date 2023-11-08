@@ -100,7 +100,7 @@ h1 {
   display: flex;
   gap: 14px;
   align-items: center;
-  padding: 10px 15px;
+  padding: 5px 10px;
   justify-content: center;
   box-sizing: border-box;
 }
