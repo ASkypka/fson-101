@@ -75,11 +75,7 @@ h1 {
   color: #fd9222;
   background: #fcf1e0;
 }
-<<<<<<< Updated upstream
 .hero-button-how {
-=======
-.hero-how {
->>>>>>> Stashed changes
   display: flex;
   padding: 14px 40px;
   align-items: flex-start;
@@ -92,24 +88,14 @@ h1 {
   font-style: normal;
   font-weight: 600;
   line-height: normal;
-<<<<<<< Updated upstream
   cursor: pointer;
-=======
->>>>>>> Stashed changes
   background-color: transparent;
   transition-property: color;
   transition-duration: 0.5s;
   transition-timing-function: cubic-bezier(0.75, 0.82, 0.165, 1);
-<<<<<<< Updated upstream
 }
 
 .hero-button-how:hover {
-=======
-  text-decoration: none;
-}
-
-.hero-how:hover {
->>>>>>> Stashed changes
   border: 1px solid #fd9222;
   color: #fd9222;
 }
@@ -140,10 +126,6 @@ h1 {
   line-height: 18px;
   letter-spacing: -0.026em;
   justify-content: flex-end;
-<<<<<<< Updated upstream
-=======
-  text-decoration: none;
->>>>>>> Stashed changes
 }
 .icon-link {
   width: 38px;
