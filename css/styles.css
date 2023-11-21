@@ -23,7 +23,8 @@ h6 {
   padding-top: 380px;
   padding-bottom: 40px;
   margin: auto;
-  background-image: url(../img-sect-one/hero-bg.jpg);
+  background-image: linear-gradient(to bottom, rgba(17, 17, 17, 0.4), rgba(17, 17, 17, 0.4)),
+    url(../img-sect-one/hero-bg.jpg);
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
